@@ -14,3 +14,17 @@ img {
     height: 500px;
     border: 5px crimson double ;
 }
+
+.example {
+
+    background-color: yellow;
+    color: blue;
+}
+
+.p-tag {
+
+    width: 600px;
+    height: 300px;
+    border: 5px crimson double ;
+
+}
